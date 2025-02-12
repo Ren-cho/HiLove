@@ -1,2 +1,2 @@
 # HiLove
-_config.yml
+_config.yml minima
